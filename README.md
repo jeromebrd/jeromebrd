@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **project with React**
 
-- 🌱 I’m currently learning **REACT18P**
+- 🌱 I’m currently learning **REACT18**
 
 - 📫 How to reach me **twitter.com/jeromebrd**
 
