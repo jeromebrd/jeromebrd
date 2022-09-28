@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jerome</h1>
 <h3 align="center">Full-stack Developer student 💻</h3>
 
-- 🔭 I’m currently working on **mini projects JS**
+- 🔭 I’m currently working on **project with React**
 
-- 🌱 I’m currently learning **JavaScript, soon I start PHP**
+- 🌱 I’m currently learning **REACT18P**
 
 - 📫 How to reach me **twitter.com/jeromebrd**
 
